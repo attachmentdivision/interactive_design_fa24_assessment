@@ -87,5 +87,5 @@ ul {
 
 .sticky {
     position: sticky;
-    top: 0;
+    top: 30px;
 }
